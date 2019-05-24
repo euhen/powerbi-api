@@ -1,0 +1,32 @@
+{
+  "name": "powerbi-api",
+  "version": "0.0.1",
+  "description": "A powerbi api library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euhen/powerbi-api.git"
+  },
+  "keywords": [
+    "microsoft",
+    "powerbi",
+    "api"
+  ],
+  "author": "Yevhen Stohniienko",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/euhen/powerbi-api/issues"
+  },
+  "homepage": "https://github.com/euhen/powerbi-api#readme",
+  "dependencies": {
+    "circular-buffer": "^1.0.2",
+    "clr-format": "^0.5.2",
+    "form-urlencoded": "^3.0.0",
+    "long": "^4.0.0",
+    "pcify": "^0.1.1",
+    "request": "^2.88.0"
+  }
+}
